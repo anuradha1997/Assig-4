@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Assig-4</string>
+    <string-array name="data">
+        <item>SelectCountry</item>>
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>US</item>
+        <item>China</item>
+
+
+
+    </string-array>>
+
+        </resources>
